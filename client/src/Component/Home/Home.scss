@@ -1,0 +1,55 @@
+@use "../../styles/mixins" as *;
+.home {
+  @include flex(unset, column, center, center);
+  &__hero {
+    width: 100vw;
+    height: 60vh;
+    object-fit: cover;
+  }
+  &__title {
+    color: #333333; // Dark text color for contrast
+    margin-top: 4rem; // Top margin
+    margin-bottom: 2rem; // Bottom margin
+    font-size: 5rem; // Large font size
+    text-align: center; // Center text alignment
+    opacity: 0; // Start hidden
+    transform: translateY(20px); // Start slightly below
+    animation: fadeInUp 1s ease forwards; // Fade-in and slide-up animation
+
+    @keyframes fadeInUp {
+      0% {
+        opacity: 0; // Fully transparent at start
+        transform: translateY(20px); // Start 20px below
+      }
+      100% {
+        opacity: 1; // Fully opaque
+        transform: translateY(0); // End at original position
+      }
+    }
+  }
+
+  &__button {
+    background-color: #ffcc00; // Bright Yellow for contrast
+    color: #333; // Dark text for readability
+    border: none; // Remove default border
+    border-radius: 5px; // Rounded corners
+    padding: 15px 30px; // Padding for a larger clickable area
+    font-size: 20px; // Larger font size for readability
+    cursor: pointer; // Pointer cursor on hover
+    transition: background-color 0.3s ease, transform 0.2s ease; // Smooth transition for hover effect
+
+    &:hover {
+      background-color: #ffb300; // Darker shade on hover
+      transform: translateY(-2px); // Slight lift effect on hover
+    }
+
+    &:focus {
+      outline: none; // Remove default focus outline
+      box-shadow: 0 0 0 3px rgba(255, 204, 0, 0.5); // Custom focus outline
+    }
+
+    &:active {
+      transform: scale(0.95); // Scale down on click
+    }
+  }
+}
