@@ -2,6 +2,17 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  background-color: #f9f9f9;
+  // background-color: #f9f9f9;
+  // background-image: url('./../assets/images/hero.jpeg');
+
   font-family: sans-serif;
+}
+body {
+  // background-image: url('./../assets/images/hero.jpeg'); // Path to your image.
+  background-image: url('../assets/images/world_background1.jpeg'); // Path to your image.
+
+  background-size: cover; // Make sure the image covers the entire viewport.
+  background-position: center; // Center the image in the viewport.
+  background-repeat: no-repeat; // Prevent repeating of the image.
+  min-height: 100vh; // Ensure the height covers the entire viewport.
 }

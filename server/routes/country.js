@@ -2,7 +2,7 @@ import express from "express";
 import fs from 'fs';
 const router = express.Router();
 
-let highScores = [];
+// let highScores = [];
 
 // Re-usable function to read our data file
 const getCountryDetails = () => {
@@ -19,7 +19,7 @@ router.get("/",(req,res)=>{
 router.get("/random-flags",(req,res)=>{
     const countryData = getCountryDetails();
     // const count = parseInt(req.query.count) || 5;
-    const count = 5;
+    const count = 4;
     const shuffled = countryData.sort(() => 0.5 - Math.random());
     const selectedFlags = shuffled.slice(0, count);
     res.json(selectedFlags);
