@@ -1,0 +1,1555 @@
+[
+    {
+      "country": "Afghanistan",
+      "flag": "https://flagcdn.com/af.svg",
+      "language": "Pashto, Dari",
+      "currency": "Afghan Afghani",
+      "population": 38928346,
+      "continent": "Asia"
+    },
+    {
+      "country": "Albania",
+      "flag": "https://flagcdn.com/al.svg",
+      "language": "Albanian",
+      "currency": "Albanian Lek",
+      "population": 2877797,
+      "continent": "Europe"
+    },
+    {
+      "country": "Algeria",
+      "flag": "https://flagcdn.com/dz.svg",
+      "language": "Arabic, Berber",
+      "currency": "Algerian Dinar",
+      "population": 43851044,
+      "continent": "Africa"
+    },
+    {
+      "country": "Andorra",
+      "flag": "https://flagcdn.com/ad.svg",
+      "language": "Catalan",
+      "currency": "Euro",
+      "population": 77265,
+      "continent": "Europe"
+    },
+    {
+      "country": "Angola",
+      "flag": "https://flagcdn.com/ao.svg",
+      "language": "Portuguese",
+      "currency": "Angolan Kwanza",
+      "population": 32866272,
+      "continent": "Africa"
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "flag": "https://flagcdn.com/ag.svg",
+      "language": "English",
+      "currency": "East Caribbean Dollar",
+      "population": 97928,
+      "continent": "North America"
+    },
+    {
+      "country": "Argentina",
+      "flag": "https://flagcdn.com/ar.svg",
+      "language": "Spanish",
+      "currency": "Argentine Peso",
+      "population": 45195777,
+      "continent": "South America"
+    },
+    {
+      "country": "Armenia",
+      "flag": "https://flagcdn.com/am.svg",
+      "language": "Armenian",
+      "currency": "Armenian Dram",
+      "population": 2963243,
+      "continent": "Asia"
+    },
+    {
+      "country": "Australia",
+      "flag": "https://flagcdn.com/au.svg",
+      "language": "English",
+      "currency": "Australian Dollar",
+      "population": 25499884,
+      "continent": "Australia"
+    },
+    {
+      "country": "Austria",
+      "flag": "https://flagcdn.com/at.svg",
+      "language": "German",
+      "currency": "Euro",
+      "population": 8917205,
+      "continent": "Europe"
+    },
+    {
+      "country": "Azerbaijan",
+      "flag": "https://flagcdn.com/az.svg",
+      "language": "Azerbaijani",
+      "currency": "Azerbaijani Manat",
+      "population": 10139177,
+      "continent": "Asia"
+    },
+    {
+      "country": "Bahamas",
+      "flag": "https://flagcdn.com/bs.svg",
+      "language": "English",
+      "currency": "Bahamian Dollar",
+      "population": 393248,
+      "continent": "North America"
+    },
+    {
+      "country": "Bahrain",
+      "flag": "https://flagcdn.com/bh.svg",
+      "language": "Arabic",
+      "currency": "Bahraini Dinar",
+      "population": 1701575,
+      "continent": "Asia"
+    },
+    {
+      "country": "Bangladesh",
+      "flag": "https://flagcdn.com/bd.svg",
+      "language": "Bengali",
+      "currency": "Bangladeshi Taka",
+      "population": 166303498,
+      "continent": "Asia"
+    },
+    {
+      "country": "Barbados",
+      "flag": "https://flagcdn.com/bb.svg",
+      "language": "English",
+      "currency": "Barbadian Dollar",
+      "population": 287375,
+      "continent": "North America"
+    },
+    {
+      "country": "Belarus",
+      "flag": "https://flagcdn.com/by.svg",
+      "language": "Belarusian, Russian",
+      "currency": "Belarusian Ruble",
+      "population": 9449323,
+      "continent": "Europe"
+    },
+    {
+      "country": "Belgium",
+      "flag": "https://flagcdn.com/be.svg",
+      "language": "Dutch, French, German",
+      "currency": "Euro",
+      "population": 11589623,
+      "continent": "Europe"
+    },
+    {
+      "country": "Belize",
+      "flag": "https://flagcdn.com/bz.svg",
+      "language": "English",
+      "currency": "Belize Dollar",
+      "population": 397621,
+      "continent": "North America"
+    },
+    {
+      "country": "Benin",
+      "flag": "https://flagcdn.com/bj.svg",
+      "language": "French",
+      "currency": "West African CFA Franc",
+      "population": 12123200,
+      "continent": "Africa"
+    },
+    {
+      "country": "Bhutan",
+      "flag": "https://flagcdn.com/bt.svg",
+      "language": "Dzongkha",
+      "currency": "Bhutanese Ngultrum",
+      "population": 771608,
+      "continent": "Asia"
+    },
+    {
+      "country": "Bolivia",
+      "flag": "https://flagcdn.com/bo.svg",
+      "language": "Spanish, Quechua, Aymara",
+      "currency": "Bolivian Boliviano",
+      "population": 11673021,
+      "continent": "South America"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "flag": "https://flagcdn.com/ba.svg",
+      "language": "Bosnian, Croatian, Serbian",
+      "currency": "Bosnia and Herzegovina Convertible Mark",
+      "population": 3280819,
+      "continent": "Europe"
+    },
+    {
+      "country": "Botswana",
+      "flag": "https://flagcdn.com/bw.svg",
+      "language": "English, Tswana",
+      "currency": "Botswana Pula",
+      "population": 2141206,
+      "continent": "Africa"
+    },
+    {
+      "country": "Brazil",
+      "flag": "https://flagcdn.com/br.svg",
+      "language": "Portuguese",
+      "currency": "Brazilian Real",
+      "population": 212559417,
+      "continent": "South America"
+    },
+    {
+      "country": "Brunei",
+      "flag": "https://flagcdn.com/bn.svg",
+      "language": "Malay",
+      "currency": "Brunei Dollar",
+      "population": 437479,
+      "continent": "Asia"
+    },
+    {
+      "country": "Bulgaria",
+      "flag": "https://flagcdn.com/bg.svg",
+      "language": "Bulgarian",
+      "currency": "Bulgarian Lev",
+      "population": 6948445,
+      "continent": "Europe"
+    },
+    {
+      "country": "Burkina Faso",
+      "flag": "https://flagcdn.com/bf.svg",
+      "language": "French",
+      "currency": "West African CFA Franc",
+      "population": 20511873,
+      "continent": "Africa"
+    },
+    {
+      "country": "Burundi",
+      "flag": "https://flagcdn.com/bi.svg",
+      "language": "Kirundi, French, English",
+      "currency": "Burundian Franc",
+      "population": 11890784,
+      "continent": "Africa"
+    },
+    {
+      "country": "Cabo Verde",
+      "flag": "https://flagcdn.com/cv.svg",
+      "language": "Portuguese",
+      "currency": "Cape Verdean Escudo",
+      "population": 549935,
+      "continent": "Africa"
+    },
+    {
+      "country": "Cambodia",
+      "flag": "https://flagcdn.com/kh.svg",
+      "language": "Khmer",
+      "currency": "Cambodian Riel",
+      "population": 16718965,
+      "continent": "Asia"
+    },
+    {
+      "country": "Cameroon",
+      "flag": "https://flagcdn.com/cm.svg",
+      "language": "French, English",
+      "currency": "Central African CFA Franc",
+      "population": 22709892,
+      "continent": "Africa"
+    },
+    {
+      "country": "Canada",
+      "flag": "https://flagcdn.com/ca.svg",
+      "language": "English, French",
+      "currency": "Canadian Dollar",
+      "population": 37742154,
+      "continent": "North America"
+    },
+    {
+      "country": "Central African Republic",
+      "flag": "https://flagcdn.com/cf.svg",
+      "language": "French, Sangho",
+      "currency": "Central African CFA Franc",
+      "population": 5496064,
+      "continent": "Africa"
+    },
+    {
+      "country": "Chad",
+      "flag": "https://flagcdn.com/td.svg",
+      "language": "French, Arabic",
+      "currency": "Chadian Franc",
+      "population": 14497000,
+      "continent": "Africa"
+    },
+    {
+      "country": "Chile",
+      "flag": "https://flagcdn.com/cl.svg",
+      "language": "Spanish",
+      "currency": "Chilean Peso",
+      "population": 19116201,
+      "continent": "South America"
+    },
+    {
+      "country": "China",
+      "flag": "https://flagcdn.com/cn.svg",
+      "language": "Mandarin",
+      "currency": "Renminbi",
+      "population": 1439323776,
+      "continent": "Asia"
+    },
+    {
+      "country": "Colombia",
+      "flag": "https://flagcdn.com/co.svg",
+      "language": "Spanish",
+      "currency": "Colombian Peso",
+      "population": 50882891,
+      "continent": "South America"
+    },
+    {
+      "country": "Comoros",
+      "flag": "https://flagcdn.com/km.svg",
+      "language": "Arabic, French, Comorian",
+      "currency": "Comorian Franc",
+      "population": 806153,
+      "continent": "Africa"
+    },
+    {
+      "country": "Congo, Democratic Republic of the",
+      "flag": "https://flagcdn.com/cd.svg",
+      "language": "French, Lingala, Swahili, Kikongo, Tshiluba",
+      "currency": "Congolese Franc",
+      "population": 89561403,
+      "continent": "Africa"
+    },
+    {
+      "country": "Congo, Republic of the",
+      "flag": "https://flagcdn.com/cg.svg",
+      "language": "French, Lingala",
+      "currency": "Central African CFA Franc",
+      "population": 5509103,
+      "continent": "Africa"
+    },
+    {
+      "country": "Costa Rica",
+      "flag": "https://flagcdn.com/cr.svg",
+      "language": "Spanish",
+      "currency": "Costa Rican Colón",
+      "population": 5094118,
+      "continent": "North America"
+    },
+    {
+      "country": "Croatia",
+      "flag": "https://flagcdn.com/hr.svg",
+      "language": "Croatian",
+      "currency": "Croatian Kuna",
+      "population": 4105267,
+      "continent": "Europe"
+    },
+    {
+      "country": "Cuba",
+      "flag": "https://flagcdn.com/cu.svg",
+      "language": "Spanish",
+      "currency": "Cuban Peso",
+      "population": 11326616,
+      "continent": "North America"
+    },
+    {
+      "country": "Cyprus",
+      "flag": "https://flagcdn.com/cy.svg",
+      "language": "Greek, Turkish",
+      "currency": "Euro",
+      "population": 1207359,
+      "continent": "Asia"
+    },
+    {
+      "country": "Czech Republic",
+      "flag": "https://flagcdn.com/cz.svg",
+      "language": "Czech",
+      "currency": "Czech Koruna",
+      "population": 10708981,
+      "continent": "Europe"
+    },
+    {
+      "country": "Denmark",
+      "flag": "https://flagcdn.com/dk.svg",
+      "language": "Danish",
+      "currency": "Danish Krone",
+      "population": 5818553,
+      "continent": "Europe"
+    },
+    {
+      "country": "Djibouti",
+      "flag": "https://flagcdn.com/dj.svg",
+      "language": "French, Arabic",
+      "currency": "Djiboutian Franc",
+      "population": 883560,
+      "continent": "Africa"
+    },
+    {
+      "country": "Dominica",
+      "flag": "https://flagcdn.com/dm.svg",
+      "language": "English",
+      "currency": "East Caribbean Dollar",
+      "population": 71986,
+      "continent": "North America"
+    },
+    {
+      "country": "Dominican Republic",
+      "flag": "https://flagcdn.com/do.svg",
+      "language": "Spanish",
+      "currency": "Dominican Peso",
+      "population": 10847904,
+      "continent": "North America"
+    },
+    {
+      "country": "Ecuador",
+      "flag": "https://flagcdn.com/ec.svg",
+      "language": "Spanish",
+      "currency": "United States Dollar",
+      "population": 17643054,
+      "continent": "South America"
+    },
+    {
+      "country": "Egypt",
+      "flag": "https://flagcdn.com/eg.svg",
+      "language": "Arabic",
+      "currency": "Egyptian Pound",
+      "population": 102334155,
+      "continent": "Africa"
+    },
+    {
+      "country": "El Salvador",
+      "flag": "https://flagcdn.com/sv.svg",
+      "language": "Spanish",
+      "currency": "United States Dollar",
+      "population": 6486201,
+      "continent": "North America"
+    },
+    {
+      "country": "Equatorial Guinea",
+      "flag": "https://flagcdn.com/gq.svg",
+      "language": "Spanish, French, Portuguese",
+      "currency": "Central African CFA Franc",
+      "population": 1402985,
+      "continent": "Africa"
+    },
+    {
+      "country": "Eritrea",
+      "flag": "https://flagcdn.com/er.svg",
+      "language": "Tigrinya, Arabic, English",
+      "currency": "Nakfa",
+      "population": 3546000,
+      "continent": "Africa"
+    },
+    {
+      "country": "Estonia",
+      "flag": "https://flagcdn.com/ee.svg",
+      "language": "Estonian",
+      "currency": "Euro",
+      "population": 1326535,
+      "continent": "Europe"
+    },
+    {
+      "country": "Eswatini",
+      "flag": "https://flagcdn.com/sz.svg",
+      "language": "siSwati, English",
+      "currency": "Swazi Lilangeni",
+      "population": 1160164,
+      "continent": "Africa"
+    },
+    {
+      "country": "Ethiopia",
+      "flag": "https://flagcdn.com/et.svg",
+      "language": "Amharic",
+      "currency": "Ethiopian Birr",
+      "population": 11411422,
+      "continent": "Africa"
+    },
+    {
+      "country": "Fiji",
+      "flag": "https://flagcdn.com/fj.svg",
+      "language": "English, Fijian, Hindi",
+      "currency": "Fijian Dollar",
+      "population": 896444,
+      "continent": "Australia"
+    },
+    {
+      "country": "Finland",
+      "flag": "https://flagcdn.com/fi.svg",
+      "language": "Finnish, Swedish",
+      "currency": "Euro",
+      "population": 5540720,
+      "continent": "Europe"
+    },
+    {
+      "country": "France",
+      "flag": "https://flagcdn.com/fr.svg",
+      "language": "French",
+      "currency": "Euro",
+      "population": 65273511,
+      "continent": "Europe"
+    },
+    {
+      "country": "Gabon",
+      "flag": "https://flagcdn.com/ga.svg",
+      "language": "French",
+      "currency": "Gabonese Franc",
+      "population": 2225734,
+      "continent": "Africa"
+    },
+    {
+      "country": "Gambia",
+      "flag": "https://flagcdn.com/gm.svg",
+      "language": "English",
+      "currency": "Dalasi",
+      "population": 2416661,
+      "continent": "Africa"
+    },
+    {
+      "country": "Georgia",
+      "flag": "https://flagcdn.com/ge.svg",
+      "language": "Georgian",
+      "currency": "Georgian Lari",
+      "population": 3989167,
+      "continent": "Asia"
+    },
+    {
+      "country": "Germany",
+      "flag": "https://flagcdn.com/de.svg",
+      "language": "German",
+      "currency": "Euro",
+      "population": 83783942,
+      "continent": "Europe"
+    },
+    {
+      "country": "Ghana",
+      "flag": "https://flagcdn.com/gh.svg",
+      "language": "English",
+      "currency": "Ghanaian Cedi",
+      "population": 31072940,
+      "continent": "Africa"
+    },
+    {
+      "country": "Greece",
+      "flag": "https://flagcdn.com/gr.svg",
+      "language": "Greek",
+      "currency": "Euro",
+      "population": 10423054,
+      "continent": "Europe"
+    },
+    {
+      "country": "Grenada",
+      "flag": "https://flagcdn.com/gd.svg",
+      "language": "English",
+      "currency": "East Caribbean Dollar",
+      "population": 112519,
+      "continent": "North America"
+    },
+    {
+      "country": "Guatemala",
+      "flag": "https://flagcdn.com/gt.svg",
+      "language": "Spanish",
+      "currency": "Guatemalan Quetzal",
+      "population": 17915568,
+      "continent": "North America"
+    },
+    {
+      "country": "Guinea",
+      "flag": "https://flagcdn.com/gn.svg",
+      "language": "French",
+      "currency": "Guinean Franc",
+      "population": 13132795,
+      "continent": "Africa"
+    },
+    {
+      "country": "Guinea-Bissau",
+      "flag": "https://flagcdn.com/gw.svg",
+      "language": "Portuguese",
+      "currency": "West African CFA Franc",
+      "population": 1968001,
+      "continent": "Africa"
+    },
+    {
+      "country": "Guyana",
+      "flag": "https://flagcdn.com/gy.svg",
+      "language": "English",
+      "currency": "Guyanese Dollar",
+      "population": 786559,
+      "continent": "South America"
+    },
+    {
+      "country": "Haiti",
+      "flag": "https://flagcdn.com/ht.svg",
+      "language": "French, Haitian Creole",
+      "currency": "Gourde",
+      "population": 11402548,
+      "continent": "North America"
+    },
+    {
+      "country": "Honduras",
+      "flag": "https://flagcdn.com/hn.svg",
+      "language": "Spanish",
+      "currency": "Honduran Lempira",
+      "population": 9904608,
+      "continent": "North America"
+    },
+    {
+      "country": "Hungary",
+      "flag": "https://flagcdn.com/hu.svg",
+      "language": "Hungarian",
+      "currency": "Hungarian Forint",
+      "population": 9660351,
+      "continent": "Europe"
+    },
+    {
+      "country": "Iceland",
+      "flag": "https://flagcdn.com/is.svg",
+      "language": "Icelandic",
+      "currency": "Icelandic Króna",
+      "population": 343599,
+      "continent": "Europe"
+    },
+    {
+      "country": "India",
+      "flag": "https://flagcdn.com/in.svg",
+      "language": "Hindi, English",
+      "currency": "Indian Rupee",
+      "population": 1380004385,
+      "continent": "Asia"
+    },
+    {
+      "country": "Indonesia",
+      "flag": "https://flagcdn.com/id.svg",
+      "language": "Indonesian",
+      "currency": "Indonesian Rupiah",
+      "population": 273523615,
+      "continent": "Asia"
+    },
+    {
+      "country": "Iran",
+      "flag": "https://flagcdn.com/ir.svg",
+      "language": "Persian",
+      "currency": "Iranian Rial",
+      "population": 83992949,
+      "continent": "Asia"
+    },
+    {
+      "country": "Iraq",
+      "flag": "https://flagcdn.com/iq.svg",
+      "language": "Arabic, Kurdish",
+      "currency": "Iraqi Dinar",
+      "population": 40222493,
+      "continent": "Asia"
+    },
+    {
+      "country": "Ireland",
+      "flag": "https://flagcdn.com/ie.svg",
+      "language": "Irish, English",
+      "currency": "Euro",
+      "population": 4937786,
+      "continent": "Europe"
+    },
+    {
+      "country": "Israel",
+      "flag": "https://flagcdn.com/il.svg",
+      "language": "Hebrew, Arabic",
+      "currency": "Israeli New Shekel",
+      "population": 8655535,
+      "continent": "Asia"
+    },
+    {
+      "country": "Italy",
+      "flag": "https://flagcdn.com/it.svg",
+      "language": "Italian",
+      "currency": "Euro",
+      "population": 60244639,
+      "continent": "Europe"
+    },
+    {
+      "country": "Jamaica",
+      "flag": "https://flagcdn.com/jm.svg",
+      "language": "English",
+      "currency": "Jamaican Dollar",
+      "population": 2961161,
+      "continent": "North America"
+    },
+    {
+      "country": "Japan",
+      "flag": "https://flagcdn.com/jp.svg",
+      "language": "Japanese",
+      "currency": "Japanese Yen",
+      "population": 126476461,
+      "continent": "Asia"
+    },
+    {
+      "country": "Jordan",
+      "flag": "https://flagcdn.com/jo.svg",
+      "language": "Arabic",
+      "currency": "Jordanian Dinar",
+      "population": 10203140,
+      "continent": "Asia"
+    },
+    {
+      "country": "Kazakhstan",
+      "flag": "https://flagcdn.com/kz.svg",
+      "language": "Kazakh, Russian",
+      "currency": "Kazakhstani Tenge",
+      "population": 18776707,
+      "continent": "Asia"
+    },
+    {
+      "country": "Kenya",
+      "flag": "https://flagcdn.com/ke.svg",
+      "language": "Swahili, English",
+      "currency": "Kenyan Shilling",
+      "population": 53771296,
+      "continent": "Africa"
+    },
+    {
+      "country": "Kiribati",
+      "flag": "https://flagcdn.com/ki.svg",
+      "language": "English, Gilbertese",
+      "currency": "Australian Dollar",
+      "population": 119446,
+      "continent": "Australia"
+    },
+    {
+      "country": "Korea, North",
+      "flag": "https://flagcdn.com/kp.svg",
+      "language": "Korean",
+      "currency": "North Korean Won",
+      "population": 25778816,
+      "continent": "Asia"
+    },
+    {
+      "country": "Korea, South",
+      "flag": "https://flagcdn.com/kr.svg",
+      "language": "Korean",
+      "currency": "South Korean Won",
+      "population": 51269185,
+      "continent": "Asia"
+    },
+    {
+      "country": "Kuwait",
+      "flag": "https://flagcdn.com/kw.svg",
+      "language": "Arabic",
+      "currency": "Kuwaiti Dinar",
+      "population": 4270571,
+      "continent": "Asia"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "flag": "https://flagcdn.com/kg.svg",
+      "language": "Kyrgyz, Russian",
+      "currency": "Kyrgyzstani Som",
+      "population": 6591600,
+      "continent": "Asia"
+    },
+    {
+      "country": "Laos",
+      "flag": "https://flagcdn.com/la.svg",
+      "language": "Lao",
+      "currency": "Lao Kip",
+      "population": 7275560,
+      "continent": "Asia"
+    },
+    {
+      "country": "Latvia",
+      "flag": "https://flagcdn.com/lv.svg",
+      "language": "Latvian",
+      "currency": "Euro",
+      "population": 1886198,
+      "continent": "Europe"
+    },
+    {
+      "country": "Lebanon",
+      "flag": "https://flagcdn.com/lb.svg",
+      "language": "Arabic, French",
+      "currency": "Lebanese Pound",
+      "population": 6825445,
+      "continent": "Asia"
+    },
+    {
+      "country": "Lesotho",
+      "flag": "https://flagcdn.com/ls.svg",
+      "language": "Sesotho, English",
+      "currency": "Lesotho Loti",
+      "population": 2142249,
+      "continent": "Africa"
+    },
+    {
+      "country": "Liberia",
+      "flag": "https://flagcdn.com/lr.svg",
+      "language": "English",
+      "currency": "Liberian Dollar",
+      "population": 5057681,
+      "continent": "Africa"
+    },
+    {
+      "country": "Libya",
+      "flag": "https://flagcdn.com/ly.svg",
+      "language": "Arabic",
+      "currency": "Libyan Dinar",
+      "population": 6871292,
+      "continent": "Africa"
+    },
+    {
+      "country": "Liechtenstein",
+      "flag": "https://flagcdn.com/li.svg",
+      "language": "German",
+      "currency": "Swiss Franc",
+      "population": 38128,
+      "continent": "Europe"
+    },
+    {
+      "country": "Lithuania",
+      "flag": "https://flagcdn.com/lt.svg",
+      "language": "Lithuanian",
+      "currency": "Euro",
+      "population": 2722289,
+      "continent": "Europe"
+    },
+    {
+      "country": "Luxembourg",
+      "flag": "https://flagcdn.com/lu.svg",
+      "language": "Luxembourgish, French, German",
+      "currency": "Euro",
+      "population": 634814,
+      "continent": "Europe"
+    },
+    {
+      "country": "Madagascar",
+      "flag": "https://flagcdn.com/mg.svg",
+      "language": "Malagasy, French",
+      "currency": "Malagasy Ariary",
+      "population": 27691018,
+      "continent": "Africa"
+    },
+    {
+      "country": "Malawi",
+      "flag": "https://flagcdn.com/mw.svg",
+      "language": "English, Chichewa",
+      "currency": "Malawian Kwacha",
+      "population": 19129952,
+      "continent": "Africa"
+    },
+    {
+      "country": "Malaysia",
+      "flag": "https://flagcdn.com/my.svg",
+      "language": "Malay",
+      "currency": "Malaysian Ringgit",
+      "population": 32365998,
+      "continent": "Asia"
+    },
+    {
+      "country": "Maldives",
+      "flag": "https://flagcdn.com/mv.svg",
+      "language": "Dhivehi",
+      "currency": "Maldivian Rufiyaa",
+      "population": 515696,
+      "continent": "Asia"
+    },
+    {
+      "country": "Mali",
+      "flag": "https://flagcdn.com/ml.svg",
+      "language": "French",
+      "currency": "West African CFA Franc",
+      "population": 20250833,
+      "continent": "Africa"
+    },
+    {
+      "country": "Malta",
+      "flag": "https://flagcdn.com/mt.svg",
+      "language": "Maltese, English",
+      "currency": "Euro",
+      "population": 514999,
+      "continent": "Europe"
+    },
+    {
+      "country": "Marshall Islands",
+      "flag": "https://flagcdn.com/mh.svg",
+      "language": "Marshallese, English",
+      "currency": "United States Dollar",
+      "population": 59194,
+      "continent": "Australia"
+    },
+    {
+      "country": "Mauritania",
+      "flag": "https://flagcdn.com/mr.svg",
+      "language": "Arabic, French",
+      "currency": "Ouguiya",
+      "population": 4649658,
+      "continent": "Africa"
+    },
+    {
+      "country": "Mauritius",
+      "flag": "https://flagcdn.com/mu.svg",
+      "language": "English, French, Creole",
+      "currency": "Mauritian Rupee",
+      "population": 1265748,
+      "continent": "Africa"
+    },
+    {
+      "country": "Mexico",
+      "flag": "https://flagcdn.com/mx.svg",
+      "language": "Spanish",
+      "currency": "Mexican Peso",
+      "population": 128932753,
+      "continent": "North America"
+    },
+    {
+      "country": "Micronesia",
+      "flag": "https://flagcdn.com/fm.svg",
+      "language": "English, Chamorro, Carolinian",
+      "currency": "United States Dollar",
+      "population": 115023,
+      "continent": "Australia"
+    },
+    {
+      "country": "Moldova",
+      "flag": "https://flagcdn.com/md.svg",
+      "language": "Romanian",
+      "currency": "Moldovan Leu",
+      "population": 2657637,
+      "continent": "Europe"
+    },
+    {
+      "country": "Monaco",
+      "flag": "https://flagcdn.com/mc.svg",
+      "language": "French",
+      "currency": "Euro",
+      "population": 39242,
+      "continent": "Europe"
+    },
+    {
+      "country": "Mongolia",
+      "flag": "https://flagcdn.com/mn.svg",
+      "language": "Mongolian",
+      "currency": "Mongolian Tögrög",
+      "population": 3278290,
+      "continent": "Asia"
+    },
+    {
+      "country": "Montenegro",
+      "flag": "https://flagcdn.com/me.svg",
+      "language": "Montenegrin",
+      "currency": "Euro",
+      "population": 622359,
+      "continent": "Europe"
+    },
+    {
+      "country": "Morocco",
+      "flag": "https://flagcdn.com/ma.svg",
+      "language": "Arabic, Berber",
+      "currency": "Moroccan Dirham",
+      "population": 36910560,
+      "continent": "Africa"
+    },
+    {
+      "country": "Mozambique",
+      "flag": "https://flagcdn.com/mz.svg",
+      "language": "Portuguese",
+      "currency": "Mozambican Metical",
+      "population": 31255435,
+      "continent": "Africa"
+    },
+    {
+      "country": "Myanmar",
+      "flag": "https://flagcdn.com/mm.svg",
+      "language": "Burmese",
+      "currency": "Kyat",
+      "population": 54409794,
+      "continent": "Asia"
+    },
+    {
+      "country": "Namibia",
+      "flag": "https://flagcdn.com/na.svg",
+      "language": "English, Afrikaans, German",
+      "currency": "Namibian Dollar",
+      "population": 2540905,
+      "continent": "Africa"
+    },
+    {
+      "country": "Nauru",
+      "flag": "https://flagcdn.com/nr.svg",
+      "language": "Nauruan, English",
+      "currency": "Australian Dollar",
+      "population": 10834,
+      "continent": "Australia"
+    },
+    {
+      "country": "Nepal",
+      "flag": "https://flagcdn.com/np.svg",
+      "language": "Nepali",
+      "currency": "Nepalese Rupee",
+      "population": 29136808,
+      "continent": "Asia"
+    },
+    {
+      "country": "Netherlands",
+      "flag": "https://flagcdn.com/nl.svg",
+      "language": "Dutch",
+      "currency": "Euro",
+      "population": 17134872,
+      "continent": "Europe"
+    },
+    {
+      "country": "New Zealand",
+      "flag": "https://flagcdn.com/nz.svg",
+      "language": "English, Maori",
+      "currency": "New Zealand Dollar",
+      "population": 4822233,
+      "continent": "Australia"
+    },
+    {
+      "country": "Nicaragua",
+      "flag": "https://flagcdn.com/ni.svg",
+      "language": "Spanish",
+      "currency": "Nicaraguan Córdoba",
+      "population": 6624554,
+      "continent": "North America"
+    },
+    {
+      "country": "Niger",
+      "flag": "https://flagcdn.com/ne.svg",
+      "language": "French, Hausa, Zarma",
+      "currency": "West African CFA Franc",
+      "population": 24206644,
+      "continent": "Africa"
+    },
+    {
+      "country": "Nigeria",
+      "flag": "https://flagcdn.com/ng.svg",
+      "language": "English",
+      "currency": "Nigerian Naira",
+      "population": 206139589,
+      "continent": "Africa"
+    },
+    {
+      "country": "North Macedonia",
+      "flag": "https://flagcdn.com/mk.svg",
+      "language": "Macedonian",
+      "currency": "Macedonian Denar",
+      "population": 2083459,
+      "continent": "Europe"
+    },
+    {
+      "country": "Norway",
+      "flag": "https://flagcdn.com/no.svg",
+      "language": "Norwegian",
+      "currency": "Norwegian Krone",
+      "population": 5421241,
+      "continent": "Europe"
+    },
+    {
+      "country": "Oman",
+      "flag": "https://flagcdn.com/om.svg",
+      "language": "Arabic",
+      "currency": "Omani Rial",
+      "population": 5106622,
+      "continent": "Asia"
+    },
+    {
+      "country": "Pakistan",
+      "flag": "https://flagcdn.com/pk.svg",
+      "language": "Urdu, English",
+      "currency": "Pakistani Rupee",
+      "population": 225199937,
+      "continent": "Asia"
+    },
+    {
+      "country": "Palau",
+      "flag": "https://flagcdn.com/pw.svg",
+      "language": "Palauan, English",
+      "currency": "United States Dollar",
+      "population": 18094,
+      "continent": "Australia"
+    },
+    {
+      "country": "Palestine",
+      "flag": "https://flagcdn.com/ps.svg",
+      "language": "Arabic",
+      "currency": "Israeli New Shekel",
+      "population": 5108000,
+      "continent": "Asia"
+    },
+    {
+      "country": "Panama",
+      "flag": "https://flagcdn.com/pa.svg",
+      "language": "Spanish",
+      "currency": "Panamanian Balboa",
+      "population": 4314768,
+      "continent": "North America"
+    },
+    {
+      "country": "Papua New Guinea",
+      "flag": "https://flagcdn.com/pg.svg",
+      "language": "English, Tok Pisin, Hiri Motu",
+      "currency": "Papua New Guinean Kina",
+      "population": 8948026,
+      "continent": "Australia"
+    },
+    {
+      "country": "Paraguay",
+      "flag": "https://flagcdn.com/py.svg",
+      "language": "Spanish, Guarani",
+      "currency": "Paraguayan Guaraní",
+      "population": 7132538,
+      "continent": "South America"
+    },
+    {
+      "country": "Peru",
+      "flag": "https://flagcdn.com/pe.svg",
+      "language": "Spanish",
+      "currency": "Peruvian Sol",
+      "population": 32971854,
+      "continent": "South America"
+    },
+    {
+      "country": "Philippines",
+      "flag": "https://flagcdn.com/ph.svg",
+      "language": "Filipino, English",
+      "currency": "Philippine Peso",
+      "population": 109581078,
+      "continent": "Asia"
+    },
+    {
+      "country": "Poland",
+      "flag": "https://flagcdn.com/pl.svg",
+      "language": "Polish",
+      "currency": "Polish Złoty",
+      "population": 38386000,
+      "continent": "Europe"
+    },
+    {
+      "country": "Portugal",
+      "flag": "https://flagcdn.com/pt.svg",
+      "language": "Portuguese",
+      "currency": "Euro",
+      "population": 10196709,
+      "continent": "Europe"
+    },
+    {
+      "country": "Qatar",
+      "flag": "https://flagcdn.com/qa.svg",
+      "language": "Arabic",
+      "currency": "Qatari Rial",
+      "population": 2881053,
+      "continent": "Asia"
+    },
+    {
+      "country": "Romania",
+      "flag": "https://flagcdn.com/ro.svg",
+      "language": "Romanian",
+      "currency": "Romanian Leu",
+      "population": 19237691,
+      "continent": "Europe"
+    },
+    {
+      "country": "Russia",
+      "flag": "https://flagcdn.com/ru.svg",
+      "language": "Russian",
+      "currency": "Russian Ruble",
+      "population": 145912025,
+      "continent": "Europe"
+    },
+    {
+      "country": "Rwanda",
+      "flag": "https://flagcdn.com/rw.svg",
+      "language": "Kinyarwanda, French, English",
+      "currency": "Rwandan Franc",
+      "population": 12952218,
+      "continent": "Africa"
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "flag": "https://flagcdn.com/kn.svg",
+      "language": "English",
+      "currency": "East Caribbean Dollar",
+      "population": 53192,
+      "continent": "North America"
+    },
+    {
+      "country": "Saint Lucia",
+      "flag": "https://flagcdn.com/lc.svg",
+      "language": "English",
+      "currency": "East Caribbean Dollar",
+      "population": 183629,
+      "continent": "North America"
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "flag": "https://flagcdn.com/vc.svg",
+      "language": "English",
+      "currency": "East Caribbean Dollar",
+      "population": 110947,
+      "continent": "North America"
+    },
+    {
+      "country": "Samoa",
+      "flag": "https://flagcdn.com/ws.svg",
+      "language": "Samoan, English",
+      "currency": "Samoan Tala",
+      "population": 198410,
+      "continent": "Australia"
+    },
+    {
+      "country": "San Marino",
+      "flag": "https://flagcdn.com/sm.svg",
+      "language": "Italian",
+      "currency": "Euro",
+      "population": 33931,
+      "continent": "Europe"
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "flag": "https://flagcdn.com/st.svg",
+      "language": "Portuguese",
+      "currency": "Dobra",
+      "population": 219159,
+      "continent": "Africa"
+    },
+    {
+      "country": "Saudi Arabia",
+      "flag": "https://flagcdn.com/sa.svg",
+      "language": "Arabic",
+      "currency": "Saudi Riyal",
+      "population": 34813867,
+      "continent": "Asia"
+    },
+    {
+      "country": "Senegal",
+      "flag": "https://flagcdn.com/sn.svg",
+      "language": "French",
+      "currency": "West African CFA Franc",
+      "population": 16743927,
+      "continent": "Africa"
+    },
+    {
+      "country": "Serbia",
+      "flag": "https://flagcdn.com/rs.svg",
+      "language": "Serbian",
+      "currency": "Serbian Dinar",
+      "population": 8772235,
+      "continent": "Europe"
+    },
+    {
+      "country": "Seychelles",
+      "flag": "https://flagcdn.com/sc.svg",
+      "language": "Seychellois Creole, English, French",
+      "currency": "Seychellois Rupee",
+      "population": 98347,
+      "continent": "Africa"
+    },
+    {
+      "country": "Sierra Leone",
+      "flag": "https://flagcdn.com/sl.svg",
+      "language": "English",
+      "currency": "Sierra Leonean Leone",
+      "population": 7976985,
+      "continent": "Africa"
+    },
+    {
+      "country": "Singapore",
+      "flag": "https://flagcdn.com/sg.svg",
+      "language": "Malay, Mandarin, Tamil, English",
+      "currency": "Singapore Dollar",
+      "population": 5850342,
+      "continent": "Asia"
+    },
+    {
+      "country": "Slovakia",
+      "flag": "https://flagcdn.com/sk.svg",
+      "language": "Slovak",
+      "currency": "Euro",
+      "population": 5456362,
+      "continent": "Europe"
+    },
+    {
+      "country": "Slovenia",
+      "flag": "https://flagcdn.com/si.svg",
+      "language": "Slovene",
+      "currency": "Euro",
+      "population": 2078654,
+      "continent": "Europe"
+    },
+    {
+      "country": "Solomon Islands",
+      "flag": "https://flagcdn.com/sb.svg",
+      "language": "English",
+      "currency": "Solomon Islands Dollar",
+      "population": 686884,
+      "continent": "Australia"
+    },
+    {
+      "country": "Somalia",
+      "flag": "https://flagcdn.com/so.svg",
+      "language": "Somali, Arabic",
+      "currency": "Somali Shilling",
+      "population": 15893222,
+      "continent": "Africa"
+    },
+    {
+      "country": "South Africa",
+      "flag": "https://flagcdn.com/za.svg",
+      "language": "Afrikaans, English, isiXhosa, isiZulu",
+      "currency": "South African Rand",
+      "population": 59308690,
+      "continent": "Africa"
+    },
+    {
+      "country": "South Sudan",
+      "flag": "https://flagcdn.com/ss.svg",
+      "language": "English, Arabic",
+      "currency": "South Sudanese Pound",
+      "population": 10919612,
+      "continent": "Africa"
+    },
+    {
+      "country": "Spain",
+      "flag": "https://flagcdn.com/es.svg",
+      "language": "Spanish",
+      "currency": "Euro",
+      "population": 46754778,
+      "continent": "Europe"
+    },
+    {
+      "country": "Sri Lanka",
+      "flag": "https://flagcdn.com/lk.svg",
+      "language": "Sinhala, Tamil",
+      "currency": "Sri Lankan Rupee",
+      "population": 21919000,
+      "continent": "Asia"
+    },
+    {
+      "country": "Sudan",
+      "flag": "https://flagcdn.com/sd.svg",
+      "language": "Arabic, English",
+      "currency": "Sudanese Pound",
+      "population": 43849260,
+      "continent": "Africa"
+    },
+    {
+      "country": "Suriname",
+      "flag": "https://flagcdn.com/sr.svg",
+      "language": "Dutch",
+      "currency": "Surinamese Dollar",
+      "population": 581363,
+      "continent": "South America"
+    },
+    {
+      "country": "Sweden",
+      "flag": "https://flagcdn.com/se.svg",
+      "language": "Swedish",
+      "currency": "Swedish Krona",
+      "population": 10379295,
+      "continent": "Europe"
+    },
+    {
+      "country": "Switzerland",
+      "flag": "https://flagcdn.com/ch.svg",
+      "language": "German, French, Italian, Romansh",
+      "currency": "Swiss Franc",
+      "population": 8654622,
+      "continent": "Europe"
+    },
+    {
+      "country": "Syria",
+      "flag": "https://flagcdn.com/sy.svg",
+      "language": "Arabic",
+      "currency": "Syrian Pound",
+      "population": 17500657,
+      "continent": "Asia"
+    },
+    {
+      "country": "Taiwan",
+      "flag": "https://flagcdn.com/tw.svg",
+      "language": "Mandarin",
+      "currency": "New Taiwan Dollar",
+      "population": 23816775,
+      "continent": "Asia"
+    },
+    {
+      "country": "Tajikistan",
+      "flag": "https://flagcdn.com/tj.svg",
+      "language": "Tajik",
+      "currency": "Tajik Somoni",
+      "population": 9537645,
+      "continent": "Asia"
+    },
+    {
+      "country": "Tanzania",
+      "flag": "https://flagcdn.com/tz.svg",
+      "language": "Swahili, English",
+      "currency": "Tanzanian Shilling",
+      "population": 59734218,
+      "continent": "Africa"
+    },
+    {
+      "country": "Thailand",
+      "flag": "https://flagcdn.com/th.svg",
+      "language": "Thai",
+      "currency": "Thai Baht",
+      "population": 69424600,
+      "continent": "Asia"
+    },
+    {
+      "country": "Togo",
+      "flag": "https://flagcdn.com/tg.svg",
+      "language": "French, Ewe, Kabiyé",
+      "currency": "West African CFA Franc",
+      "population": 8278724,
+      "continent": "Africa"
+    },
+    {
+      "country": "Tonga",
+      "flag": "https://flagcdn.com/to.svg",
+      "language": "Tongan, English",
+      "currency": "Tongan Paʻanga",
+      "population": 100651,
+      "continent": "Australia"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "flag": "https://flagcdn.com/tt.svg",
+      "language": "English",
+      "currency": "Trinidad and Tobago Dollar",
+      "population": 1399491,
+      "continent": "North America"
+    },
+    {
+      "country": "Tunisia",
+      "flag": "https://flagcdn.com/tn.svg",
+      "language": "Arabic, French",
+      "currency": "Tunisian Dinar",
+      "population": 11818619,
+      "continent": "Africa"
+    },
+    {
+      "country": "Turkey",
+      "flag": "https://flagcdn.com/tr.svg",
+      "language": "Turkish",
+      "currency": "Turkish Lira",
+      "population": 84339067,
+      "continent": "Asia"
+    },
+    {
+      "country": "Turkmenistan",
+      "flag": "https://flagcdn.com/tm.svg",
+      "language": "Turkmen",
+      "currency": "Turkmenistani Manat",
+      "population": 5942098,
+      "continent": "Asia"
+    },
+    {
+      "country": "Tuvalu",
+      "flag": "https://flagcdn.com/tv.svg",
+      "language": "Tuvaluan, English",
+      "currency": "Australian Dollar",
+      "population": 11764,
+      "continent": "Australia"
+    },
+    {
+      "country": "Uganda",
+      "flag": "https://flagcdn.com/ug.svg",
+      "language": "English, Swahili",
+      "currency": "Ugandan Shilling",
+      "population": 45741007,
+      "continent": "Africa"
+    },
+    {
+      "country": "Ukraine",
+      "flag": "https://flagcdn.com/ua.svg",
+      "language": "Ukrainian",
+      "currency": "Ukrainian Hryvnia",
+      "population": 43733762,
+      "continent": "Europe"
+    },
+    {
+      "country": "United Arab Emirates",
+      "flag": "https://flagcdn.com/ae.svg",
+      "language": "Arabic",
+      "currency": "United Arab Emirates Dirham",
+      "population": 9890400,
+      "continent": "Asia"
+    },
+    {
+      "country": "United Kingdom",
+      "flag": "https://flagcdn.com/gb.svg",
+      "language": "English",
+      "currency": "Pound Sterling",
+      "population": 68207114,
+      "continent": "Europe"
+    },
+    {
+      "country": "United States",
+      "flag": "https://flagcdn.com/us.svg",
+      "language": "English",
+      "currency": "United States Dollar",
+      "population": 331002651,
+      "continent": "North America"
+    },
+    {
+      "country": "Uruguay",
+      "flag": "https://flagcdn.com/uy.svg",
+      "language": "Spanish",
+      "currency": "Uruguayan Peso",
+      "population": 3473730,
+      "continent": "South America"
+    },
+    {
+      "country": "Uzbekistan",
+      "flag": "https://flagcdn.com/uz.svg",
+      "language": "Uzbek",
+      "currency": "Uzbekistani Som",
+      "population": 33469199,
+      "continent": "Asia"
+    },
+    {
+      "country": "Vanuatu",
+      "flag": "https://flagcdn.com/vu.svg",
+      "language": "Bislama, English, French",
+      "currency": "Vanuatu Vatu",
+      "population": 307145,
+      "continent": "Australia"
+    },
+    {
+      "country": "Vatican City",
+      "flag": "https://flagcdn.com/va.svg",
+      "language": "Italian",
+      "currency": "Euro",
+      "population": "801",
+      "continent": "Europe"
+    },
+    {
+      "country": "Venezuela",
+      "flag": "https://flagcdn.com/ve.svg",
+      "language": "Spanish",
+      "currency": "Venezuelan Bolívar",
+      "population": 28435943,
+      "continent": "South America"
+    },
+    {
+      "country": "Vietnam",
+      "flag": "https://flagcdn.com/vn.svg",
+      "language": "Vietnamese",
+      "currency": "Vietnamese Dong",
+      "population": 98168829,
+      "continent": "Asia"
+    },
+    {
+      "country": "Yemen",
+      "flag": "https://flagcdn.com/ye.svg",
+      "language": "Arabic",
+      "currency": "Yemeni Rial",
+      "population": 29825968,
+      "continent": "Asia"
+    },
+    {
+      "country": "Zambia",
+      "flag": "https://flagcdn.com/zm.svg",
+      "language": "English, Nyanja, Bemba",
+      "currency": "Zambian Kwacha",
+      "population": 18383855,
+      "continent": "Africa"
+    },
+    {
+      "country": "Zimbabwe",
+      "flag": "https://flagcdn.com/zw.svg",
+      "language": "English, Shona, Sindebele",
+      "currency": "Zimbabwean Dollar",
+      "population": 14862027,
+      "continent": "Africa"
+    }
+  ]
+  
