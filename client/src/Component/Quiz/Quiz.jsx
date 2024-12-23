@@ -1,7 +1,7 @@
 import "./Quiz.scss";
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import Confetti from "react-confetti";
+// import Confetti from "react-confetti";
 // import { ToastContainer, toast } from 'react-toastify';
 // import flag from "../../assets/images/hero.jpeg";
 

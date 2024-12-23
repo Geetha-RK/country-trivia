@@ -1,10 +1,12 @@
 @use "../../styles/mixins" as *;
 .home {
   @include flex(unset, column, center, center);
+  position: relative;
   &__hero {
     width: 100vw;
     height: 60vh;
     object-fit: cover;
+    position: absolute;
   }
   &__title {
     color: #333333; // Dark text color for contrast
@@ -30,11 +32,17 @@
 
   &__button {
     background-color: #ffcc00; // Bright Yellow for contrast
+    position: absolute;
+    left: 43%;
+    display: flex;
+
+    
     color: #333; // Dark text for readability
     border: none; // Remove default border
     border-radius: 5px; // Rounded corners
     padding: 15px 30px; // Padding for a larger clickable area
     font-size: 20px; // Larger font size for readability
+    font-weight: bold;
     cursor: pointer; // Pointer cursor on hover
     transition: background-color 0.3s ease, transform 0.2s ease; // Smooth transition for hover effect
 
@@ -53,3 +61,9 @@
     }
   }
 }
+// .box{
+//   display: flex;
+//   flex-direction: column;
+//   justify-content: center;
+//   align-items: center;
+// }

@@ -12,10 +12,12 @@ function Home() {
   return (
     <div className="home">
       <img src={heroImg} alt="" className="home__hero" />
-      <h1 className="home__title">World Trivia Challenge</h1>
-      <button className="home__button" onClick={handleClick}>
+      <div className="box">
+        <h1 className="home__title">World Trivia Challenge</h1>
+        <button className="home__button" onClick={handleClick}>
         Begin
       </button>{" "}
+      </div>
       {/* Attach onClick */}
     </div>
   );
